@@ -86,19 +86,3 @@ button:active {
   box-shadow: none;
   transform: translateY(3px);
 }
-
-.buzzer {
-  height: 10em;
-  font-size: 2em;
-}
-
-.secondary {
-  background-color: #FD684A;
-  color: #fff;
-  box-shadow: 0 3px 0 0 #ce553c;
-}
-
-.secondary:hover {
-  background-color: #ce553c;
-  box-shadow: 0 3px 0 0 #963e2c;
-}
